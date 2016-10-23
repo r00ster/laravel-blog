@@ -6,7 +6,7 @@
 	<div class="row">
 		<div class="col-md-12">
 			<div class="jumbotron">
-				<h1>Welcom to My Blog!</h1>
+				<h1>Welcome to My Blog!</h1>
 				<p class="lead">Thanks so much for visiting my blog! It is built with Laravel! Please read my Popular Post.</p>
 				<p><a class="btn btn-primary btn-lg" href="#" role="button">Popular Post</a></p>
 			</div>
